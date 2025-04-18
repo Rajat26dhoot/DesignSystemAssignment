@@ -51,10 +51,6 @@ Visit [http://localhost:6006](http://localhost:6006) to view the components and 
 ### Progress Bar
 
 - **Features:** Determinate/indeterminate, size & color variants, animated, accessible (`role="progressbar"`, ARIA support)
-- **Usage Example:**
-  ```tsx
-  
-  ```
 - **See:** `src/stories/ProgressBar.stories.tsx`
 
 ---
@@ -62,10 +58,6 @@ Visit [http://localhost:6006](http://localhost:6006) to view the components and 
 ### Top Navigation Bar
 
 - **Features:** Icon and label support, disabled state, responsive sizes, keyboard navigation, ARIA roles
-- **Usage Example:**
-  ```tsx
-  
-  ```
 - **See:** `src/stories/TopNavBar.stories.tsx`
 
 ---
@@ -73,10 +65,6 @@ Visit [http://localhost:6006](http://localhost:6006) to view the components and 
 ### Timeline
 
 - **Features:** Vertical/horizontal layout, custom icons/colors, event links, accessible structure
-- **Usage Example:**
-  ```tsx
-  
-  ```
 - **See:** `src/stories/Timeline.stories.tsx`
 
 ---
@@ -106,15 +94,6 @@ Visit [http://localhost:6006](http://localhost:6006) to view the components and 
 ---
 
 
-## 📬 Submission Checklist
-
-- [ ] All components implemented with TypeScript, documented in Storybook
-- [ ] Color system with tokens and theme support
-- [ ] Accessibility and responsiveness verified
-- [ ] Storybook deployed and link shared
-- [ ] Repo pushed to GitHub with clear structure
-
----
 
 ## 📚 References
 
